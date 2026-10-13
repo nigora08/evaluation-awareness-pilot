@@ -1,0 +1,170 @@
+[
+  {
+    "model": "Claude Sonnet 5.5 Medium",
+    "setting": "Medium",
+    "responses": 1,
+    "conditions": {
+      "original": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "inline_options": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "deployment_control": {
+        "submitted": 1,
+        "valid": 1,
+        "yes": 1,
+        "yes_rate": 1.0
+      }
+    },
+    "complete_pairs": 0,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  },
+  {
+    "model": "DeepSeek-V4.1-Flash",
+    "setting": "DeepThink off",
+    "responses": 1,
+    "conditions": {
+      "original": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "inline_options": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "deployment_control": {
+        "submitted": 1,
+        "valid": 1,
+        "yes": 1,
+        "yes_rate": 1.0
+      }
+    },
+    "complete_pairs": 0,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  },
+  {
+    "model": "DeepSeek-V4.1-Flash",
+    "setting": "DeepThink on",
+    "responses": 2,
+    "conditions": {
+      "original": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "inline_options": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "deployment_control": {
+        "submitted": 2,
+        "valid": 2,
+        "yes": 1,
+        "yes_rate": 0.5
+      }
+    },
+    "complete_pairs": 0,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  },
+  {
+    "model": "GPT-6 Instant",
+    "setting": null,
+    "responses": 1,
+    "conditions": {
+      "original": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "inline_options": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "deployment_control": {
+        "submitted": 1,
+        "valid": 1,
+        "yes": 1,
+        "yes_rate": 1.0
+      }
+    },
+    "complete_pairs": 0,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  },
+  {
+    "model": "GPT-6 Medium",
+    "setting": "Medium",
+    "responses": 19,
+    "conditions": {
+      "original": {
+        "submitted": 9,
+        "valid": 9,
+        "yes": 9,
+        "yes_rate": 1.0
+      },
+      "inline_options": {
+        "submitted": 4,
+        "valid": 4,
+        "yes": 4,
+        "yes_rate": 1.0
+      },
+      "deployment_control": {
+        "submitted": 6,
+        "valid": 6,
+        "yes": 6,
+        "yes_rate": 1.0
+      }
+    },
+    "complete_pairs": 3,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  },
+  {
+    "model": "Gemini 3.6 Thinking",
+    "setting": "Thinking",
+    "responses": 1,
+    "conditions": {
+      "original": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "inline_options": {
+        "submitted": 0,
+        "valid": 0,
+        "yes": 0,
+        "yes_rate": null
+      },
+      "deployment_control": {
+        "submitted": 1,
+        "valid": 1,
+        "yes": 1,
+        "yes_rate": 1.0
+      }
+    },
+    "complete_pairs": 0,
+    "yes_to_no": 0,
+    "no_to_yes": 0
+  }
+]
